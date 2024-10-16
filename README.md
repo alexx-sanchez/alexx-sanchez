@@ -1,5 +1,5 @@
 # Hi there 👋
-🙋🏼‍♂️ - I'm Alex Sanchez, a student learning **Web Application Development** (DAW)
+🙋🏼‍♂️ - I'm Alex Sanchez, from Spain🇪🇸, a student learning **Web Application Development** (DAW)
 
 🔭 - **My languages**: Kotlin, Java, Html, CSS and SQL
 
