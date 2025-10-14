@@ -4,7 +4,7 @@
 
 🙋🏼‍♂️ - I'm Alex Sanchez, a student learning **Web Application Development** (DAW)
 
-🔭 - **My languages**: Kotlin, PHP, Java, Html, CSS, JavaScript and SQL
+🔭 - **My languages**: Node, React, Kotlin, PHP, Java, Html, CSS, JavaScript...
 
 🌱 - Open to learn from you all
 
