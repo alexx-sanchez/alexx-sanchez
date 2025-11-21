@@ -10,6 +10,3 @@
 
 📫 How to reach me: 
 - alexsr2504@gmail.com 
-
-### 📊 Lenguajes más usados
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsr2504&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
