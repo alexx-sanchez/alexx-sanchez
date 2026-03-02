@@ -1,12 +1,61 @@
-# Hello everyone 👋
+# 👋 Hello, I'm Alex Sanchez
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D2AAF7&width=750&lines=Hello%2C+welcome+to+my+personal+space!!)](https://git.io/typing-svg)
+<p align="center">
+  <em>Web Application Development (DAW) Student | Full-Stack Enthusiast | Lifelong Learner</em>
+</p>
 
-🙋🏼‍♂️ - I'm Alex Sanchez, a student learning **Web Application Development** (DAW)
+---
 
-🔭 - **My languages**: Node, PHP, React, Vue, Angular, Kotlin, Spring Boot, Java, JS, PostgresSQL, MySQL...
+## 👨🏻‍💻 About Me
 
-🌱 - Open to learn from you all
+🎓 I'm currently studying **Web Application Development (DAW)**, building strong foundations in modern web technologies and backend systems.  
+💡 Passionate about creating scalable, efficient, and user-friendly applications.  
+🚀 Constantly improving my skills through practice, collaboration, and real-world projects.  
+🌱 Always open to learning new technologies and contributing to meaningful projects.
 
-📫 How to reach me: 
-- alexsr2504@gmail.com 
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+- JavaScript (ES6+)
+- Java
+- PHP
+- Kotlin
+
+### 🌐 Frontend
+- React
+- Vue
+- Angular
+- HTML5
+- CSS3
+
+### 🔧 Backend & Frameworks
+- Node.js
+- Spring Boot
+
+### 🗄️ Databases
+- PostgreSQL
+- MySQL
+
+---
+
+## 🎯 Current Focus
+
+- Building full-stack applications  
+- Improving software architecture practices  
+- Writing clean, maintainable, and scalable code  
+- Learning more about performance optimization and backend design  
+
+---
+
+## 🤝 Let's Connect
+
+📫 **Email:** alexsr2504@gmail.com  
+💬 Open to collaboration, internships, and new opportunities  
+
+---
+
+<p align="center">
+  <i>"Code. Learn. Build. Repeat."</i>
+</p>
